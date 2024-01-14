@@ -18,9 +18,4 @@
         echo "could not connect <br>";
     }
 
-    // if($conn){
-    //     echo "You are connected <br>";
-    // }
-    
-
 ?>
